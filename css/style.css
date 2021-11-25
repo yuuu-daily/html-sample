@@ -1,0 +1,110 @@
+body{
+	background-color: #efefef;
+}
+
+header{
+	margin-top: 20px;
+}
+
+.container {
+	width: 920px;
+	margin: 0 auto 40px auto;
+}
+
+.header-title {
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+.logo {
+	font-size: 32px;
+}
+
+.title-text {
+	color: #777;
+}
+
+.header-navigation {
+	width: 100%;
+	background-color: #fff;
+	padding: 20px 0;
+}
+
+.header-navigation li {
+	float: left;
+	padding: 0 30px;
+	text-align: center;
+	list-style-type: none;
+}
+
+.header-navigation li a {
+	color: #333;
+	text-decoration: none;
+}
+
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+footer {
+	text-align: center;
+}
+.copyright {
+	color: #777;
+}
+
+.card-contents {
+	padding: 40px;
+	margin-bottom: 20px;
+	background-color: #fff;
+}
+
+.card-title {
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+
+main {
+	width: 600px;
+	margin-right: 20px;
+	float: left;
+}
+
+aside {
+	width: 300px;
+	float: left;
+}
+
+.information-list {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+.information-list li {
+	margin-bottom: 10px;
+}
+
+.staff {
+	width: 150px;
+	margin-right: 35px;
+	float: left;
+}
+
+.staff:last-child {
+	margin-right: 0;
+}
+
+.staff-image {
+	margin-bottom: 10px;
+	width: 150px;
+	height: 150px;
+}
+
+.staff-name {
+	text-align: center;
+}
+
